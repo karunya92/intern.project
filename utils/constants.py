@@ -1,0 +1,5 @@
+ROLES = ["ADMIN", "INTERN", "EMPLOYEE"]
+TASK_STATUSES = ["Not Started", "In Progress", "Completed"]
+LEAVE_STATUSES = ["Pending", "Approved", "Rejected"]
+ATTENDANCE_STATUSES = ["Present", "Absent"]
+PRIORITIES = ["Low", "Medium", "High"]
